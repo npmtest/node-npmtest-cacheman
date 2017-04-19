@@ -1,4 +1,7 @@
-# test coverage for  [cacheman (v2.2.1)](https://github.com/cayasso/cacheman#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cacheman.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cacheman) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cacheman.svg)](https://travis-ci.org/npmtest/node-npmtest-cacheman)
+# npmtest-cacheman
+
+#### basic test coverage for  [cacheman (v2.2.1)](https://github.com/cayasso/cacheman#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cacheman.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cacheman) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cacheman.svg)](https://travis-ci.org/npmtest/node-npmtest-cacheman)
+
 #### Small and efficient cache provider for Node.JS with In-memory, Redis and MongoDB engines
 
 [![NPM](https://nodei.co/npm/cacheman.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cacheman)
